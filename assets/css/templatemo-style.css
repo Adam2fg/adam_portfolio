@@ -353,7 +353,7 @@ button {
     border: none;
     outline: none;
     cursor: pointer;
-    border-radius: 5px;
+
 }
 
 button:hover {
@@ -582,7 +582,7 @@ figure.snip1321 span {
 figure.snip1321 i {
   position: relative!important;
   font-size: 18px;
-  background-color: #a43f49;
+  background-color: #000000;
   width: 40px;
   height: 40px;
   display: inline-block;
