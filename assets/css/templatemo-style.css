@@ -332,6 +332,7 @@ html {
     letter-spacing: 0.5px;
     text-transform: uppercase;
     transition: all 0.5s;
+    border-radius: 5px;
 }
 
 .white-button a:hover {
@@ -352,6 +353,7 @@ button {
     border: none;
     outline: none;
     cursor: pointer;
+    border-radius: 5px;
 }
 
 button:hover {
